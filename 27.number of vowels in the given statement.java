@@ -33,8 +33,5 @@ public class VowelCounter {
     }
 }
 OUTPUT:
-C:\Users\BHAVATHARANI\Desktop>javac VowelCounter.java
-
-C:\Users\BHAVATHARANI\Desktop>java VowelCounter
 Enter a statement: India is my country
 The number of vowels in the statement is: 6
