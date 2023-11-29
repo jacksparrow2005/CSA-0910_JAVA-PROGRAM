@@ -35,8 +35,8 @@ public class PascalTriangle {
 }
 OUTPUT:
 Enter the number of rows for Pascal's Triangle: 5
-    1  
-  1   1   
+        1  
+      1   1   
     1   2   1   
   1   3   3   1   
 1   4   6   4   1   
